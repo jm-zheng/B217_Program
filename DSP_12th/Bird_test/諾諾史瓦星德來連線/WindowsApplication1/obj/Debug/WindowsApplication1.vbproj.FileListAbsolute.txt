@@ -1,0 +1,16 @@
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\VB2015\妹子N號\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\MySql.Data.dll
+D:\B217\bird\Bird_test\諾諾史瓦星德來連線\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\B217\bird\Bird_test\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\B217\bird\Bird_test\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\B217\bird\Bird_test\諾諾史瓦星德來連線\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

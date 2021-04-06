@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IoT_Cold_Chain
+</name>
+</assembly>
+<members>
+<member name="P:IoT_Cold_Chain.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc1_現流海魚5尾組合包1099">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc2_現流海魚5尾組合包1099">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc3_現流螃蟹組合包1099">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc4_現流黑喉魚3尾入499">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc5_現流紅目鰱3尾入699">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc6_現撈海魚歡樂組999_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IoT_Cold_Chain.My.Resources.Resources.cc7_流白帶魚1大尾入_350">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:IoT_Cold_Chain.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,7 @@
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\ResolveAssemblyReference.cache
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\Alt_Tab.vbproj.ResolveComReference.cache
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\WindowsApplication1.Form1.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\WindowsApplication1.Frist.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\WindowsApplication1.Resources.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\GenerateResource.read.1.tlog
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Release\GenerateResource.write.1.tlog

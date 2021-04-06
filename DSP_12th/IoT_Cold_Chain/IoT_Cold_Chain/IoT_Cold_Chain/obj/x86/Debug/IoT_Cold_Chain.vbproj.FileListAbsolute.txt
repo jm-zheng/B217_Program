@@ -1,0 +1,51 @@
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.exe
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.pdb
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.xml
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form1.resources
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Resources.resources
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.vbproj.GenerateResource.Cache
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+C:\Users\htretht\AppData\Local\Temporary Projects\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.exe
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.pdb
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.xml
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form1.resources
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Resources.resources
+D:\IoT_VB2010_Show\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.vbproj.GenerateResource.Cache
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.exe
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.pdb
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.xml
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form1.resources
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Resources.resources
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.vbproj.GenerateResource.Cache
+E:\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form2.resources
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form1.resources
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form2.resources
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Resources.resources
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.vbproj.GenerateResource.Cache
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.exe
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.pdb
+E:\105計畫與學生競賽\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.xml
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.exe
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.pdb
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\bin\Debug\IoT_Cold_Chain.xml
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form1.resources
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Form2.resources
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.Resources.resources
+F:\2017第12屆DSP\第12屆DSP- 物聯網在冷鏈物流之應用_0110\DSP11_ColdChain\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.vbproj.GenerateResource.Cache
+D:\B217\bird\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.exe
+D:\B217\bird\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.xml
+D:\B217\bird\IoT_Cold_Chain\IoT_Cold_Chain\IoT_Cold_Chain\obj\x86\Debug\IoT_Cold_Chain.pdb

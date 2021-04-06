@@ -1,0 +1,78 @@
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+c:\users\boss_luo\documents\visual studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form5.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form5.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Form5.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\WindowsApp2 - 複製 - 複製\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\bin\Debug\MySql.Data.dll
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form5.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Boss_Luo\Documents\Visual Studio 2017\Projects\1124_HT32_比賽前一天更改過後之VB版本\WindowsApp2\obj\Debug\WindowsApp2.Form6.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\bin\Debug\WindowsApp2.exe
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\bin\Debug\WindowsApp2.pdb
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\bin\Debug\WindowsApp2.xml
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form3.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form4.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form5.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Form6.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CopyComplete
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.exe
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.xml
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.pdb
+D:\B217\HT32\smb\VB\HT32比賽版本\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache

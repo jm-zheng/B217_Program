@@ -1,0 +1,187 @@
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+C:\Users\seventails\Desktop\PLC自動化機台遠端監控\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\修平\三年級 修平作業\PLC自動化機台遠端監控\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_0221\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\PLC自動化機台遠端監控_v1\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v2\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\Dsp工廠主控台_v3\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v4\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v5\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe.config
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\bin\Debug\PLC自動化機台遠端監控.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.dll
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\bin\Debug\M2Mqtt.Net.pdb
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form3.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form4.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form5.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Form6.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.exe
+D:\B217\HT32\14dsp_smb\C#\Dsp工廠主控台_v6\PLC自動化機台遠端監控\obj\Debug\PLC自動化機台遠端監控.pdb

@@ -1,0 +1,11 @@
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\bin\Debug\label_test.exe.config
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\bin\Debug\label_test.exe
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\bin\Debug\label_test.pdb
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.Form1.resources
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.Form2.resources
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.Properties.Resources.resources
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.csproj.GenerateResource.cache
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.exe
+D:\B217\HT32\14dsp_smb\C#\label_test\label_test\obj\Debug\label_test.pdb

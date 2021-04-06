@@ -1,0 +1,6 @@
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\Zigbee_Timer.Form1.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\Zigbee_Timer.Frist.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\Zigbee_Timer.Resources.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Zigbee_Timer\obj\x86\Debug\GenerateResource.write.1.tlog

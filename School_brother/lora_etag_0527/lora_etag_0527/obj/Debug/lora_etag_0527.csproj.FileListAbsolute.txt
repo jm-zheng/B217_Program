@@ -1,0 +1,10 @@
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\bin\Debug\lora_etag_0527.exe.config
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\bin\Debug\lora_etag_0527.exe
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\bin\Debug\lora_etag_0527.pdb
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.csprojAssemblyReference.cache
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.Form1.resources
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.Properties.Resources.resources
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.csproj.GenerateResource.cache
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.csproj.CoreCompileInputs.cache
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.exe
+D:\B217\School_brother\lora_etag_0527\lora_etag_0527\obj\Debug\lora_etag_0527.pdb

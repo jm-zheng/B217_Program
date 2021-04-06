@@ -1,0 +1,30 @@
+form1程式
+
+//宣告一個全域的form2變數
+        Form2 fr2;
+ 
+        public Form1()
+        {
+            InitializeComponent();
+        }
+ 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //建立form2物件
+            fr2 = new Form2();
+            //開啟form2視窗
+            fr2.Show();
+        }
+ 
+        //當按下送到表單2的按鈕時，執行form2裡的方法
+        private void button1_Click(object sender, EventArgs e)
+        {
+            fr2.show_form1_data(textBox1.Text); //form2要先寫好執行序
+        }
+//====================================================================
+form2程式
+        //接收form1資料，並顯示
+        public void show_form1_data(string data)
+        {
+            label1.Text = data;
+        }

@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For Astro lib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+NecIR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setup			KEYWORD2
+get_command		KEYWORD2
+get_error_length	KEYWORD2
+get_errors		KEYWORD2
+get_edge_count		KEYWORD2
+dump_lengths		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+

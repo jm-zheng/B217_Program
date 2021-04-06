@@ -1,0 +1,13 @@
+HT32IO.cpp   
+  Line:90   CKCUClock.Bit.USART0=1;  -> CKCUClock.Bit.UART0=1;
+
+ht32f5xxxx_uart_it.c 
+  Line:29     USART0_IRQHandler -> UART0_IRQHandler
+  Line:22-55  HT_USART0 -> HT_UART0  
+
+Serial.cpp
+  AFIO_GPxConfig -> GPIO_PC, AFIO_PIN_4
+  AFIO_GPxConfig -> GPIO_PC, AFIO_PIN_5
+  ©Ò¦³  HT_USART0 -> HT_UART0 
+ 
+

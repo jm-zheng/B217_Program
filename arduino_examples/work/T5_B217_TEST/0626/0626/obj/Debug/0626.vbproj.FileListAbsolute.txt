@@ -1,0 +1,11 @@
+D:\B217\T5_B217_TEST\0626\0626\bin\Debug\0626.exe.config
+D:\B217\T5_B217_TEST\0626\0626\bin\Debug\0626.exe
+D:\B217\T5_B217_TEST\0626\0626\bin\Debug\0626.pdb
+D:\B217\T5_B217_TEST\0626\0626\bin\Debug\0626.xml
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\0626.vbprojResolveAssemblyReference.cache
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\_0626.Form1.resources
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\_0626.Resources.resources
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\0626.vbproj.GenerateResource.Cache
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\0626.exe
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\0626.xml
+D:\B217\T5_B217_TEST\0626\0626\obj\Debug\0626.pdb

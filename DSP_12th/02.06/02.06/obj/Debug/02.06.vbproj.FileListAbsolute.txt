@@ -1,0 +1,13 @@
+D:\B217\bird\02.06\02.06\bin\Debug\02.06.exe.config
+D:\B217\bird\02.06\02.06\bin\Debug\02.06.exe
+D:\B217\bird\02.06\02.06\bin\Debug\02.06.pdb
+D:\B217\bird\02.06\02.06\bin\Debug\02.06.xml
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.vbprojResolveAssemblyReference.cache
+D:\B217\bird\02.06\02.06\obj\Debug\_02._06.Form1.resources
+D:\B217\bird\02.06\02.06\obj\Debug\_02._06.Resources.resources
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.vbproj.GenerateResource.Cache
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.exe
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.xml
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.pdb
+D:\B217\bird\02.06\02.06\bin\Debug\MySql.Data.dll
+D:\B217\bird\02.06\02.06\obj\Debug\02.06.vbproj.CoreCompileInputs.cache

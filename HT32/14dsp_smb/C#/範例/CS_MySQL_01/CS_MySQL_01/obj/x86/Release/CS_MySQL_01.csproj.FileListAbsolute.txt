@@ -1,0 +1,24 @@
+C:\Users\RD\AppData\Local\Temporary Projects\CS_MySQL_01\bin\Release\CS_MySQL_01.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_MySQL_01\bin\Release\CS_MySQL_01.pdb
+C:\Users\RD\AppData\Local\Temporary Projects\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.exe
+C:\Users\RD\AppData\Local\Temporary Projects\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.pdb
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.pdb
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.Entity.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.Entity.EF6.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Fabric.Plugin.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Web.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Release\CS_MySQL_01.pdb
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.Entity.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Data.Entity.EF6.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Fabric.Plugin.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\MySql.Web.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Release\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Release\CS_MySQL_01.pdb

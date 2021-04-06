@@ -1,0 +1,112 @@
+
+Lora_Send_Val(uint16_t GWT) 記得加
+{
+		RF_PutByte((GWT_Value/10000) + 0x30);
+		RF_PutByte((GWT_Value/1000 % 10) + 0x30);
+		RF_PutByte((GWT_Value/100 % 10) + 0x30);
+		RF_PutByte((GWT_Value/10 % 10) + 0x30);
+		RF_PutByte((GWT_Value% 10) + 0x30);
+		
+}
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-11) //送值 EC
+				{
+						RS485_GetValue(Tx);
+						DELAY_Ms(5);
+						RS485_PutByte(0x02);
+						RS485_PutByte(0x03);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x02);
+
+						RS485_PutByte(0xC4);
+						RS485_PutByte(0x38);
+						RS485_PutEnd();
+						DELAY_Ms(200);
+						/*RS485_PutByte(0x01);  //修改ID?
+						RS485_PutByte(0x06);
+						RS485_PutByte(0x01);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0xEC);
+
+						RS485_PutByte(0x89);
+						RS485_PutByte(0xBB);
+						RS485_PutEnd();*/
+						SC_Move_Flag ++;
+				}
+				
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-10) //取值 EC
+				{
+						len = RS485_RxLen();
+						if(len)
+						{
+								RS485_GetValue(Tx);
+								GND_EC = Tx[3];
+								GND_EC = (GND_EC << 8) + Tx[4];
+						}
+						DELAY_Ms(50);
+				}
+				
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-9) //送值 PH
+				{
+						RS485_GetValue(Tx);
+						DELAY_Ms(5);
+						RS485_PutByte(0x03);
+						RS485_PutByte(0x03);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x01);
+						RS485_PutByte(0x00);
+						RS485_PutByte(0x02);
+
+						RS485_PutByte(0x94);
+						RS485_PutByte(0x29);
+						RS485_PutEnd();
+						DELAY_Ms(200);
+				}
+				
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-8) //取值 PH
+				{
+						len = RS485_RxLen();
+						if(len)
+						{
+								RS485_GetValue(Tx);
+								GND_PH = Tx[3];
+								GND_PH = (GND_PH << 8) + Tx[4];
+						}
+						
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-7) //送值 WT
+				{
+					RS485_GetValue(Tx);
+					DELAY_Ms(5);
+					RS485_PutByte(0x04);
+					RS485_PutByte(0x03);
+					RS485_PutByte(0x00);
+					RS485_PutByte(0x00);
+					RS485_PutByte(0x00);
+					RS485_PutByte(0x02);
+
+					RS485_PutByte(0xC4);
+					RS485_PutByte(0x5E);
+					RS485_PutEnd();
+					DELAY_Ms(200);
+				}
+				
+				if(SC_Sleep_Time_Count == SC_Sleep_Time-6)  //取值 WT
+				{
+						len = RS485_RxLen();
+						if(len)
+						{
+								RS485_GetValue(Tx);
+								GND_PH = Tx[3];
+								GND_PH = (GND_PH << 8) + Tx[4];
+						}
+						/*len = RF_RxLen();
+						DELAY_Ms(30);*/
+						Lora_Send_Val(AIR_Temp,GND_Temp,AIR_Humi,GND_Humi,AIR_Lux,AIR_CO2,GND_EC,GND_PH,GND_WT);
+						EN_E5V_OFF();
+						EN_E12V_OFF();
+						EN_R12V_OFF();
+						EN_R5V_OFF();
+						DELAY_Ms(300);
+				}

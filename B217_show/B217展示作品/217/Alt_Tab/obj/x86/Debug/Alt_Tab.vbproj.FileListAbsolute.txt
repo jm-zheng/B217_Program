@@ -1,0 +1,251 @@
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.a.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\帥帥郭\N-VB2010\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平專用\20111011\聖約翰比賽程式\VB\test\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\桌機-Adnroid for VB\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平資料\聖約翰比賽-專用\20111011\聖約翰比賽程式\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\專題展\專題展\VB\Uart收\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+E:\修平資料\專題展\專題展\VB\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+D:\B217感光數據收集\桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSP比賽專用資料夾\複製 -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\複製 -Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DSP比賽專用資料夾\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\B217\Desktop\教育部DSP -桌機-自己Adnroid for VB\DSP_Alt_Tab\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\阿富\專屬B217\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\阿富\專屬B217\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\阿富\專屬B217\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\阿富\專屬B217\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+D:\阿富\sandisk\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\阿富\sandisk\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\阿富\sandisk\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\阿富\sandisk\B217\B217光碟整理\B217程式整理\VB\217VB(燈光)\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\217\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\217\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\217\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\217\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.GenerateResource.Cache
+D:\C槽\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+D:\C槽\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+D:\C槽\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+D:\C槽\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\217BIG\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\217BIG\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\217BIG\Desktop\217\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\217BIG\Desktop\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.GenerateResource.Cache
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.ResolveComReference.cache
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\Alt_Tab.exe
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\Alt_Tab.xml
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\Alt_Tab.pdb
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\bin\Debug\Alt_Tab.exe
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\bin\Debug\Alt_Tab.pdb
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\bin\Debug\Alt_Tab.xml
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Frist.resources
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\217BIG\Desktop\B217展示作品\217\Alt_Tab\obj\x86\Debug\Alt_Tab.vbproj.GenerateResource.Cache

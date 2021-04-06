@@ -1,0 +1,267 @@
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\AppData\Local\Temporary Projects\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表5-28\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表5-28 - 複製\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表6-4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-6\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表6-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表7-24\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+F:\新增資料夾\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+F:\新增資料夾\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+F:\新增資料夾\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\電表7-27\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表8-17\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\B217\電表8-26\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\B217實驗室\電表9-30\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\B217實驗室\電表10-2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\B217實驗室\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\10-08\電表9-30\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\10-08\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\電表10-2(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\h\電表11-20(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛)\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 2\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 3\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\user\Desktop\h\電表11-20(盛) - 4\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\user\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\user\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表11-20(盛) - 5\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\h\電表12-11\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\h\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\h\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\Mark\Desktop\電表12-15\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\Mark\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\Mark\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\217\Desktop\士緘\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\217BIG\Desktop\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.exe
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.xml
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.pdb
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.exe
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.pdb
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\bin\Debug\電表5-28.xml
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Form1.resources
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5_28.Resources.resources
+C:\Users\217BIG\Desktop\B217展示作品\電表12-22\電表12-15\電表5-28\電表5-28\obj\x86\Debug\電表5-28.vbproj.GenerateResource.Cache

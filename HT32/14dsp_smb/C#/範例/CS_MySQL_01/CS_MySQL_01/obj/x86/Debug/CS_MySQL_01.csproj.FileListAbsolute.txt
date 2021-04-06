@@ -1,0 +1,51 @@
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+D:\Visual project code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\CS-connect-MySQL-master\code\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+C:\Users\ASUS\Desktop\資料\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.dll
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.dll
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Fabric.Plugin.dll
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\MySql.Web.dll
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.exe
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\bin\Debug\CS_MySQL_01.pdb
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csprojAssemblyReference.cache
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csproj.CoreCompileInputs.cache
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.csproj.CopyComplete
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.exe
+D:\B217\HT32\14dsp_smb\CS_MySQL_01\CS_MySQL_01\obj\x86\Debug\CS_MySQL_01.pdb
